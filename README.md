@@ -12,13 +12,12 @@
 # project Insights ->
 1. Week on Week change:
 - Revenue increased by 28.8%,
-- Total Transaction Amt & Count increased by xx% & xx%
-- ustomer count increased by xx%
+- Total Transaction Amt & Count increased by 1.68% & 1.71%
 2. Overview YTD ->
-- Overall revenue is 57M
-- Total interest is 8M
-- Total transaction amount is 46M
-- Male customers are contributing more in revenue 31M, female 26M
+- Overall revenue is 55.32M
+- Total interest is 7.84M
+- Total transaction amount is 45M
+- Male customers are contributing more in revenue 30M, female 25M
 - Blue & Silver credit cards are contributing to 93% of overall transactions
 - TX, NY & CA are contributing to 68%
 - Overall Activation rate is 57.5%
